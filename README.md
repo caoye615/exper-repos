@@ -7,4 +7,5 @@ Nxx+FDtAs5vskye+wPt9nJTiP5umjuJi8jeQmu7aW16YbCjgU5uHi2xGqYGUtZSK+O1GffVgk/IAtljL
 upavRPAUe8QluApWXXhJ+WV5PnrKGyaCoQm9usSYdh7d/vwDIWeCX8SF2Q== caoye615@163.com
 experience 
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
